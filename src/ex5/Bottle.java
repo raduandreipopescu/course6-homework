@@ -1,4 +1,4 @@
-package Ex5;
+package ex5;
 
 public class Bottle {
     private int totalCapacity;

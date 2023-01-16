@@ -1,4 +1,4 @@
-package Ex1And2;
+package ex1And2;
 
 public class Person {
     private String name;

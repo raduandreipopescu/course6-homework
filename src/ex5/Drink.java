@@ -1,4 +1,4 @@
-package Ex5;
+package ex5;
 
 public class Drink {
     public static void main(String[] args) {

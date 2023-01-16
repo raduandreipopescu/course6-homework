@@ -1,4 +1,4 @@
-package Ex3And4;
+package ex3And4;
 
 public class Product {
     private String name;
